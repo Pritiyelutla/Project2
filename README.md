@@ -1,4 +1,4 @@
 # New project
 
 This project created from local system
-created by Priti Yelutla
+created by Priti Yelutla.
